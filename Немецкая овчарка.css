@@ -1,0 +1,32 @@
+  body {
+	color: #180d00;
+  	background: #ffddbb;
+	}	
+h1 {
+  color: 311a00;
+  background-color: #f4a460;
+  font: Arial 2em;
+ 
+}
+h2 {
+  color: 642600;
+  background-color: #f0b27a;
+  font: Tahoma 2em;
+}
+ p.definition {
+    
+	border:1px solid #808080;
+	padding: 10px;
+	}
+p {
+	font: arial;
+  padding: 30 px;
+  }
+ .text1 { padding: 20 20 10 20; }
+ a:hover {color: pink;}
+ 
+a:visited {color: purple;}
+.facts {
+	background: lightsalmon;
+	border: 1 px solid #808080;
+}
